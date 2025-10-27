@@ -2,6 +2,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Ask--maker-181717?logo=github&logoColor=white)](https://github.com/Ask-maker)
 [![Facebook](https://img.shields.io/badge/Facebook-Perfil-blue?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61579234687661)
 
+![HTML5](https://img.shields.io/badge/HTML5-10%25-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-10%25-blue?style=for-the-badge&logo=css3&logoColor=white)
+___
+
 >  Comprometido con aprender, me puse un reto de  como ser un desarrollador  **Junior** en el menor tiempo posible,
 aun que se que es una camino muy pero muy largo, he decidió a hacerlo y no me quiero rendir.
 
@@ -13,4 +17,3 @@ aun que se que es una camino muy pero muy largo, he decidió a hacerlo y no me q
 `Ask_Maker` 
 `V.1`
 ___
-
