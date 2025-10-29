@@ -4,7 +4,7 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-10%25-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-10%25-blue?style=for-the-badge&logo=css3&logoColor=white)
-___
+
 
 >  Comprometido con aprender, me puse un reto de  como ser un desarrollador  **Junior** en el menor tiempo posible,
 aun que se que es una camino muy pero muy largo, he decidió a hacerlo y no me quiero rendir.
@@ -15,5 +15,14 @@ aun que se que es una camino muy pero muy largo, he decidió a hacerlo y no me q
 - Este es mi Primer publicación que hago y espero estarlo actualizando lo mas pronto posible sobre cosas que estado aprendiendo y documentando lo mas posible.
 
 `Ask_Maker` 
-`V.1`
+`V.1.0.1`
 ___
+
+## Nuevas Herramientas
+
+- Hoy acabo de  una pagina que se llama *[manz.dev](https://manz.dev/)* que es sobre una desarollador con el mismo nombre y agrego su [GitHub](https://github.com/ManzDev), donde en su pagina explica paso a paso un Roadmap donde te va explicando los conceptos basico de HTML, CSS, JS, NPM.... La verdad me esta llamando la atencion y muy seguramente moy a incluirlo en mi plan de estudio junto con *["The Odin Project"](https://www.theodinproject.com/)* para enterder mucho mejor el desarrollo/creacion de paginas web.
+
+`Ask_Maker`
+`V1.0.2`
+
+____
