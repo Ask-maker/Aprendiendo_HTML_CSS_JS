@@ -26,3 +26,42 @@ ___
 `V1.0.2`
 
 ____
+
+## Aprendiendo Git y GitHub
+
+- Hay una herramienta que de descubierto que se llama *[learngitbranching](https://learngitbranching.js.org/)*, es una pagina que te explica paso a paso, las herramientas que mayor mente se usan para aprender *"Git"*, donde estoy aprendiendo a moverme entre las carpetas y crear "branch".
+
+Es una herramienta que recomindo y pieso que pueda ser util, para los que se pregunta que es lo que muentran en esa pagina, es lo siguiente:
+
+    - branch // Crear una nueva rama
+    - checkout // Cambiar de rama
+    - cherry-pick // Aplicar un commit de otra rama
+    - commit // Guardar cambios
+    - merge // Unir ramas
+    - rebase // Reaplicar commits
+    - reset // Restablecer cambios
+    - revert // Revertir cambios
+
+- Estos son parte muy basicas de comandos que uno debe conocer para trabajar con Git, y la verdad es que me esta gustando mucho aprender a usar Git y GitHub, ya que es una herramienta muy importante para los desarrolladores.
+
+- Agregando algo mas, hay una pagina que se llama Convensional Commits, que es una guia para escribir mensajes de commit claros y estructurados. La pagina es la siguiente: *[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)*.
+
+`Ask_Maker`
+`V1.0.3`
+
+____
+
+## Algorithm Visualizer
+
+- Hay una herramienta que he descubierto que se llama *[Algorithm Visualizer](https://algorithm-visualizer.org/)*, es una pagina que te permite visualizar algoritmos de una manera interactiva, donde puedes ver como funcionan en tiempo real. Es una herramienta muy útil para entender mejor los algoritmos y como se implementan.
+
+- La pagina tiene una gran variedad de algoritmos, desde los mas basicos como *"Bubble Sort"* hasta los mas avanzados como *"A* Search"*, y lo mejor de todo es que puedes ver como se ejecutan paso a paso, lo que facilita mucho el aprendizaje.
+
+- Recomiendo mucho esta herramienta para aquellos que quieren mejorar su comprensión de los algoritmos y la programación en general.
+
+![algorithm-visualizer](/src/algorithm-visualizer.png)
+
+`Ask_Maker`
+`V1.0.4`
+
+____
