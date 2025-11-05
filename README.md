@@ -46,8 +46,75 @@ Es una herramienta que recomindo y pieso que pueda ser util, para los que se pre
 
 - Agregando algo mas, hay una pagina que se llama Convensional Commits, que es una guia para escribir mensajes de commit claros y estructurados. La pagina es la siguiente: *[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)*.
 
+### Conventional Commits
+
+> Para todo el que va a utilizar este metodo de commit, les paso una guia rapida de como usarlo.
+
+#### 3.1 Estructura base
+
+    <tipo>(<área>): <descripción corta>
+
+#### Ejemplo general:
+
+     feat(ui): agrega modo oscuro
+
+
+#### 3.2 Tipos principales
+
+| Tipo | Función | Descripción | Ejemplo / Variantes |
+|------|----------|--------------|----------------------|
+| **feat** | Nueva función | Añade algo nuevo al proyecto | `feat(api): agrega login`<br>`feat(auth)!: cambia flujo` |
+| **fix** | Corrección | Soluciona un bug | `fix(ui): corrige bug en modal` |
+| **docs** | Documentación | Solo cambia docs o comentarios | `docs(readme): actualiza guía` |
+| **style** | Formato | Espacios, comas, sin alterar código | `style: formatea código` |
+| **refactor** | Reestructuración | Mejora código sin cambiar lógica | `refactor(core): simplifica función` |
+| **perf** | Rendimiento | Optimiza velocidad o uso de recursos | `perf(img): reduce tamaño` |
+| **test** | Pruebas | Cambios en tests o cobertura | `test(api): añade test login` |
+| **build** | Compilación | Cambios en dependencias o build | `build: actualiza vite` |
+| **ci** | Integración continua | Configs de pipelines (GitHub, GitLab, etc.) | `ci(github): añade lint` |
+| **chore** | Mantenimiento | Tareas varias sin afectar código fuente | `chore: limpia scripts` |
+| **revert** | Reversión | Deshace un commit anterior | `revert: feat(ui): remueve modo oscuro` |
+
+
+#### Extensiones opcionales
+
+| Elemento | Uso | Ejemplo |
+|-----------|-----|----------|
+| **!** | Indica cambio que rompe compatibilidad (breaking change) | `feat!: elimina endpoint antiguo` |
+| **Cuerpo** | Explicación más detallada del commit | `feat: agrega login\n\nUsa JWT y bcrypt.` |
+| **Footer** | Notas o referencias a issues o tickets | `fix: corrige bug\n\nCloses #42` |
+| **Scopes** | Define el área o módulo afectado | `feat(api):`, `fix(ui):`, `docs(readme):` |
+
+
+##### Ejemplo completo
+
+    feat(auth)!: implementa login OAuth2
+
+    Agrega autenticación con Google.
+    Afecta el flujo de usuarios existentes.
+
+    BREAKING CHANGE: se elimina login clásico.
+    Closes #24
+
+
+##### 3.3 Resumen visual rápido
+
+| Tipo | Valor |
+|------|--------|
+| feat | nueva función |
+| fix | corrección |
+| docs | documentación |
+| style | formato |
+| refactor | reestructura |
+| perf | mejora rendimiento |
+| test | pruebas |
+| build | sistema build |
+| ci | integración continua |
+| chore | mantenimiento |
+| revert | deshacer cambios |
+
 `Ask_Maker`
-`V1.0.3`
+`V1.0.3.1`
 
 ____
 
