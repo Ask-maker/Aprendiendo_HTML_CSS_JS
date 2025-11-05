@@ -4,6 +4,8 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-10%25-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-10%25-blue?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown 80%](https://img.shields.io/badge/Markdown-80%25-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Git 20%](https://img.shields.io/badge/Git-20%25-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 >  Comprometido con aprender, me puse un reto de  como ser un desarrollador  **Junior** en el menor tiempo posible,
@@ -16,7 +18,8 @@ aun que se que es una camino muy pero muy largo, he decidió a hacerlo y no me q
 
 `Ask_Maker` 
 `V.1.0.1`
-___
+<hr style="height:1px; border:none; background:linear-gradient(to right, transparent, #999, transparent); margin: 1.5em 0;">
+
 
 ## Nuevas Herramientas
 
@@ -24,8 +27,7 @@ ___
 
 `Ask_Maker`
 `V1.0.2`
-
-____
+<hr style="height:1px; border:none; background:linear-gradient(to right, transparent, #999, transparent); margin: 1.5em 0;">
 
 ## Aprendiendo Git y GitHub
 
@@ -115,8 +117,8 @@ Es una herramienta que recomindo y pieso que pueda ser util, para los que se pre
 
 `Ask_Maker`
 `V1.0.3.1`
+<hr style="height:1px; border:none; background:linear-gradient(to right, transparent, #999, transparent); margin: 1.5em 0;">
 
-____
 
 ## Algorithm Visualizer
 
@@ -130,5 +132,4 @@ ____
 
 `Ask_Maker`
 `V1.0.4`
-
-____
+<hr style="height:1px; border:none; background:linear-gradient(to right, transparent, #999, transparent); margin: 1.5em 0;">
