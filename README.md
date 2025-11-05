@@ -8,6 +8,22 @@
 ![Git 20%](https://img.shields.io/badge/Git-20%25-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
+<hr style="height:1px; border:none; background:linear-gradient(to right, transparent, #999, transparent); margin: 1.5em 0;">
+
+## Indice
+- [Sobre Mi](#sobre-mi)
+- [Mi primeros pasos](#mi-primeros-pasos)
+- [Nuevas Herramientas](#nuevas-herramientas)
+- [Aprendiendo Git y GitHub](#aprendiendo-git-y-github)
+    - [Conventional Commits](#conventional-commits)
+        - [Estructura base](#31-estructura-base)
+        - [Ejemplo general](#ejemplo-general)
+        - [Tipos principales](#32-tipos-principales)
+        - [Extensiones opcionales](#extensiones-opcionales)
+        - [Ejemplo completo](#ejemplo-completo)
+        - [Resumen visual rápido](#33-resumen-visual-rápido)
+- [Algorithm Visualizer](#algorithm-visualizer)
+
 >  Comprometido con aprender, me puse un reto de  como ser un desarrollador  **Junior** en el menor tiempo posible,
 aun que se que es una camino muy pero muy largo, he decidió a hacerlo y no me quiero rendir.
 
