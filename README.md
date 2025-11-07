@@ -51,14 +51,22 @@ aun que se que es una camino muy pero muy largo, he decidió a hacerlo y no me q
 
 Es una herramienta que recomindo y pieso que pueda ser util, para los que se pregunta que es lo que muentran en esa pagina, es lo siguiente:
 
-    - branch // Crear una nueva rama
-    - checkout // Cambiar de rama
-    - cherry-pick // Aplicar un commit de otra rama
-    - commit // Guardar cambios
-    - merge // Unir ramas
-    - rebase // Reaplicar commits
-    - reset // Restablecer cambios
-    - revert // Revertir cambios
+| Comandos basicos de Git |
+|Comando|Descripcion|
+|-------|------------|
+| **git init** | Inicializa un nuevo repositorio Git |
+| **git clone <url>** | Clona un repositorio remoto |
+| **git status** | Muestra el estado de los archivos en el repositorio |
+| **git add <archivo>** | Añade un archivo al área de preparación |
+| **git branch** | Lista las ramas existentes o crea una nueva rama |
+| **git checkout <rama>** | Cambia a una rama específica |
+| **git cherry-pick <commit>** | Aplica un commit de otra rama |
+| **git commit -m "<mensaje>"** | Guarda los cambios con un mensaje descriptivo |
+| **git merge <rama>** | Une una rama en la rama actual |
+| **git rebase <rama>** | Reaplica commits de una rama sobre otra |
+| **git reset <archivo>** | Restablece cambios en un archivo específico |
+| **git revert <commit>** | Crea un nuevo commit que revierte los cambios de un commit anterior |
+
 
 - Estos son parte muy basicas de comandos que uno debe conocer para trabajar con Git, y la verdad es que me esta gustando mucho aprender a usar Git y GitHub, ya que es una herramienta muy importante para los desarrolladores.
 
