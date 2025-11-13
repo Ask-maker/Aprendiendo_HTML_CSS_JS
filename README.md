@@ -24,8 +24,8 @@
         - [Resumen visual rápido](#33-resumen-visual-rápido)
 - [Algorithm Visualizer](#algorithm-visualizer)
 
->  Comprometido con aprender, me puse un reto de  como ser un desarrollador  **Junior** en el menor tiempo posible,
-aun que se que es una camino muy pero muy largo, he decidió a hacerlo y no me quiero rendir.
+> [!PROMESA]
+> Comprometido con aprender, me puse un reto de  como ser un desarrollador  **Junior** en el menor tiempo posible,aun que se que es una camino muy pero muy largo, he decidido a hacerlo y no me quiero rendir.
 
 ## Mi primeros pasos 
 - Hace poco descubrí una pagina que se llama *["The Odin Project"](https://www.theodinproject.com/)*, una pagina en donde te aprendes desde lo mas básico hasta lo mas avanzado, pasado por parte como los ***fundamentos***, hasta llegar a cosas mas avanzadas, que si soy honesto aun me cuesta aprender, pero que todavía sigo estudiando por que me llama mucho la atención.
@@ -51,21 +51,22 @@ aun que se que es una camino muy pero muy largo, he decidió a hacerlo y no me q
 
 Es una herramienta que recomindo y pieso que pueda ser util, para los que se pregunta que es lo que muentran en esa pagina, es lo siguiente:
 
-| Comandos basicos de Git |
+### Comandos basicos de Git 
+
 |Comando|Descripcion|
 |-------|------------|
 | **git init** | Inicializa un nuevo repositorio Git |
-| **git clone <url>** | Clona un repositorio remoto |
+| **git clone "url"** | Clona un repositorio remoto |
 | **git status** | Muestra el estado de los archivos en el repositorio |
-| **git add <archivo>** | Añade un archivo al área de preparación |
+| **git add "archivo"** | Añade un archivo al área de preparación |
 | **git branch** | Lista las ramas existentes o crea una nueva rama |
-| **git checkout <rama>** | Cambia a una rama específica |
-| **git cherry-pick <commit>** | Aplica un commit de otra rama |
-| **git commit -m "<mensaje>"** | Guarda los cambios con un mensaje descriptivo |
-| **git merge <rama>** | Une una rama en la rama actual |
-| **git rebase <rama>** | Reaplica commits de una rama sobre otra |
-| **git reset <archivo>** | Restablece cambios en un archivo específico |
-| **git revert <commit>** | Crea un nuevo commit que revierte los cambios de un commit anterior |
+| **git checkout "rama"** | Cambia a una rama específica |
+| **git cherry-pick "commit"** | Aplica un commit de otra rama |
+| **git commit -m "mensaje"** | Guarda los cambios con un mensaje descriptivo |
+| **git merge "rama"** | Une una rama en la rama actual |
+| **git rebase "rama"** | Reaplica commits de una rama sobre otra |
+| **git reset "archivo"** | Restablece cambios en un archivo específico |
+| **git revert "commit"** | Crea un nuevo commit que revierte los cambios de un commit anterior |
 
 
 - Estos son parte muy basicas de comandos que uno debe conocer para trabajar con Git, y la verdad es que me esta gustando mucho aprender a usar Git y GitHub, ya que es una herramienta muy importante para los desarrolladores.
